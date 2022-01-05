@@ -1,0 +1,30 @@
+body{
+    background-image: url("../imgs/pexels-edward-eyer-1049626.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    background-color: orange;
+    text-align: center;  
+    font-size: 4vw;  
+    font-family:monospace;
+    margin-bottom: 0%;
+}
+h2{
+    color: white;
+    font-size: 3vw;
+    text-align: center;
+    margin-top: 0%;
+    font-family:monospace;
+}
+div{
+    color: white;
+    text-align: center;
+    size: 30px;
+    font-size: 2vw;
+    padding-top: 20px;
+    border:1px solid orange;
+}
